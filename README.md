@@ -1,1 +1,1 @@
-# Eulen-cracked
+open eulen v1 and enter code (#include #include #include <windows.h> using namespace std; int main() { // ·567 string password = ""; int attempts = 0; bool cracked = false; // ·344 cout << "Initializing Password Cracker v3.14..." <<) No parentheses
